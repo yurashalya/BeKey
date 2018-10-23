@@ -1,0 +1,43 @@
+/*variables*/
+
+$mobile-width: 450px;
+$tablet-width: 768px;
+$desktop-width: 1024px;
+
+/*Colors*/
+$white: #fff;
+$black: #000;
+$blue: #41e9ff;
+$gray: #242424;
+$grey-dark: #616060;
+$grey-light: #9d9d9d;
+$dark: #1b1b1b;
+
+// Font weight
+$light:         300;
+$regular:       400;
+$semibold:      500;
+$bold:          600;
+
+
+// Font size
+$size-default:  15;
+
+
+// Spaces
+$smallest:      10px;
+$small:         15px;
+$medium:        25px;
+$large:         35px;
+$extra:         50px;
+
+// Fonts
+$font-primary: 'Philosopher', sans-serif;
+$font-righteous: 'Righteous', cursive;
+
+body {
+  font-family: $font-primary;
+  
+}
+
+
